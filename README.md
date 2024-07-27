@@ -1,1 +1,1 @@
-# Tesis_automatizaci-n_EPN
+# Tesis_automatizacion_EPN
